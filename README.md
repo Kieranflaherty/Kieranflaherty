@@ -10,7 +10,7 @@
 ✍️ &nbsp;In my free time, I pursue personal programming projects mostly in Python.\
 ✉️ &nbsp;You can shoot me an email at kieranflaherty96@gmail.com.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="center"/>
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -30,7 +30,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/Kieranflaherty">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kieranflaherty&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Kieranflaherty&layout=compact&langs_count=8&theme=algolia"/>
