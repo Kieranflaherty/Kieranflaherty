@@ -4,8 +4,8 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I am a Controls/Software Automation Engineer working in manufacturing.\
-🎓 &nbsp;I am currently doing a Masters in Software Development with Cloud Native Computing.\
+💡 &nbsp;I am an Automation Engineer working in Biotech manufacturing.\
+🎓 &nbsp;I have a Masters in Software Development with Cloud Native Computing.\
 🌱 &nbsp;I'm also learning Python, Java and R in my own time.\
 ✍️ &nbsp;In my free time, I pursue personal programming projects mostly in Python.\
 ✉️ &nbsp;You can shoot me an email at kieranflaherty96@gmail.com.
